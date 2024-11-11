@@ -22,8 +22,8 @@ This project is a Node.js application that fetches data from an external API, pr
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone "https://github.com/zacjactech/simple-nodejs-api-processor.git"
+   cd simple-nodejs-api-processor
    ```
 
 2. Ensure you have Node.js installed. You can check this by running:
